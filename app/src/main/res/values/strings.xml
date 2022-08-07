@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">7ML2</string>
+    <string name="delete">delete</string>
+    <string name="add">add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">save</string>
+</resources>
